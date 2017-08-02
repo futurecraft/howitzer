@@ -1,6 +1,7 @@
 .idea/
 custom.yml
 bin/
+coverage/
 log/
 eylogs/
 spec/results/

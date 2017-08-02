@@ -17,6 +17,7 @@
 ###########################################################
 # TEST ENVIRONMENTS SETTINGS                              #
 ###########################################################
+ coverage: false
  page_load_idle_timeout: 20
  maximized_window: true # Specify maximized browser window size
 
